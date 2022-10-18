@@ -15,7 +15,7 @@ export function Sidebar() {
         />
 
         <strong>Evelyn Helena</strong>
-        <span>Web Developer</span>
+        <span>Front-End Developer</span>
       </div>
       <footer>
         <a href="#">
